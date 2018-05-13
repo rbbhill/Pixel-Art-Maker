@@ -1,2 +1,2 @@
 # Pixel-Art-Maker
-Game site where users can create their own pixe drawings
+Game site where users can create their own pixel drawings
